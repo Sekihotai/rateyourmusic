@@ -1,0 +1,20 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.7",
+  "service": "RateYourMusic",
+  "author": {
+    "id": "332318676751482901",
+    "name": "spiritual#2333"
+  },
+  "description": {
+    "en": "RateYourMusic is a website for reviewing albums and songs with thousands around the world!"
+  },
+  "url": "rateyourmusic.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/ZaICN5p.png",
+  "thumbnail": "https://i.imgur.com/ZaICN5p.png",
+  "color": "#1e3879",
+  "tags": [
+    "rateyourmusic"
+  ],
+  "category": "music"
+}
